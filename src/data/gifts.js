@@ -42,13 +42,6 @@ export const GIFTS = [
     link: 'https://www.mercadolivre.com.br/social/gs20240816222943?matt_word=gs20240816222943&matt_tool=70332337&forceInApp=true&ref=BMzXDm4c9upOR4p29Ap1SN3pkHZ2ghhnogNP5hEe5KuJZbsEll9NLzf1OhrDOVjScHD0Z7W8pbkqzh4BnDf50WhZIM6vtCSRrMFSciRod0x2MwAXBeWYDvZfIeAuixJRK6T2QAmGGvBQy3Yb4w29IuMgGa8cDOGLG1gxXqW4pOq2jqkcoiKMq7Z8y5HOvBJXShHkplQjyqW8lPnyA3ik7NGnUxgEqQugXwsdMzYKzamPsd31Xg%3D%3D#origin=whatsapp',
   },
   {
-    id: 7,
-    name: 'Faqueiro 30 Peças de Aço Inox Dourado',
-    category: 'Cozinha',
-    image: '/images/gifts/faqueiro_dourado.png',
-    link: 'https://www.mercadolivre.com.br/social/gs20240816222943?matt_word=gs20240816222943&matt_tool=70332337&forceInApp=true&ref=BMdhIzO0%2B5kMhzWH20I8p8Hdvo0ARCqVZd4glNMJDDYg%2FmtARVzhzajg%2FKmeUzb1fPX1EdGuyCOyTjm0FnMRM27Q8RXdji%2F5NosNIK7ncYjypvrqmMV0w5dgvyT6f73mnKxppfvy%2Bm2Rs9IJBk7jzfcq0ta6EFZ0TGcRtPdTwgAktU084MLD0evkZOpnwKrLxmQEb7HmFnwDR9yvCfqB%2BhMkKASEDE%2FiFwh6YQ%3D%3D#origin=whatsapp',
-  },
-  {
     id: 8,
     name: 'Mixer Oster Omix500 3 Em 1',
     category: 'Cozinha',
@@ -91,13 +84,6 @@ export const GIFTS = [
     link: 'https://www.mercadolivre.com.br/social/gs20240816222943?matt_word=gs20240816222943&matt_tool=70332337&forceInApp=true&ref=BIyDZJG9ZjIqoZhmR9UoeVDMhxXvFlKzIkNXiRZTUlY0D4jZ5kywAhNTl8VZlZkrYnOxmR7CwK7jIgXRBnJqVqj3%2BGC6S%2BYJBmFdvaFbDj28Iix6IE8GfWghELCiTGh00qPgHAdSuDCnA90HjjT%2FhzY0hH9JvQecAJrnpX3al5K9CYrhDBRGJY0EOHiFMtD0NHs5FbY2YMYr549F7B7yBvNzmeD4ANTE6XPMar%2FSheQ%3D#origin=whatsapp',
   },
   {
-    id: 14,
-    name: 'Aparelho de jantar 30 peças - Bio Pistache',
-    category: 'Mesa',
-    image: '/images/gifts/biopistache.png',
-    link: 'https://www.mercadolivre.com.br/social/gs20240816222943?matt_word=gs20240816222943&matt_tool=70332337&forceInApp=true&ref=BKpRHf1vnm7dk6%2BCqItKjilI7oA9KhZxgVWO9mNGWrHHf9PG2%2B%2FiM54gCINlXn6NGYUeGxWijcTgPw66370aJiO33qDOVsB36YwZdtGL2YFzA2Ve4ArLPpY4ao%2BkdED0gjn0vGYOvp%2FRC5OOuuQXtki%2BO5VxrX4Q%2BLctE%2BUe0Liny63NofvXW8v1cgHtImhPI2nsp6x0t88LSx86COkaCOzMttzLUDHN9v2TErrNXiQ%3D#origin=whatsapp',
-  },
-  {
     id: 15,
     name: 'Aparelho de jantar 30 peças - Cerâmica cor branco',
     category: 'Mesa',
@@ -126,13 +112,6 @@ export const GIFTS = [
     link: 'https://www.mercadolivre.com.br/social/gs20240816222943?matt_word=gs20240816222943&matt_tool=70332337&forceInApp=true&ref=BN1QxxZ4PfF%2Bj68o3XySGhtHuaHhbZUP7L3TgpTiLjKmul6juxGN5ekWQ1zAWTSoN63VbLYTGg39maKbu64XpDfIuNLrKpb9HUN0uURUsIlkhoDSPBtqBA4Kkulo5ygQjM3Kt1ioAd74Q1wMbHay%2FMdOtWfVd2rjRjqKiMsA7YN2%2FcOpE2SDfOd85LUTc6VkAy5XHouQgMQRTbdjFtcPHUUz3BRohaxNl7SHXQ%3D%3D#origin=whatsapp',
   },
   {
-    id: 19,
-    name: 'Kit 10 Potes Herméticos Electrolux',
-    category: 'Cozinha',
-    image: '/images/gifts/4.png',
-    link: 'https://www.mercadolivre.com.br/social/gs20240816222943?matt_word=gs20240816222943&matt_tool=70332337&forceInApp=true&ref=BMN3yACEkUYH%2BWHEwSLFjpYdWaJEDHvHl3mKtLyQWA8%2BjnKg2vw6kwN9OCFOCZjGnAUiD60vudGCn0ssIR6wQy%2FkvoPERH9JryOGilPfs2yeEFdcCtHIckKjsT4iOCMM8abJDoJk0WsX5VVh%2Fyd5HeUVuYanz%2BXWMvJ2veLGRnHD%2BLsMo8%2F6TPaO12mKFy7%2BvV1rZEnaQ0j4X6x6Jh88tGPBT38I4cGNwU70bt0VZmhVhVP1#origin=whatsapp',
-  },
-  {
     id: 20,
     name: 'Marinex Conjunto De Assadeiras Oval Opaline',
     category: 'Cozinha',
@@ -145,13 +124,6 @@ export const GIFTS = [
     category: 'Cozinha',
     image: '/images/gifts/6.png',
     link: 'https://www.mercadolivre.com.br/social/gs20240816222943?matt_word=gs20240816222943&matt_tool=70332337&forceInApp=true&ref=BFtVmjn1sv11wbnqOimDO%2B4ncY3QoC%2BeR6QoG3A5OePXhMrl3TD5Qk5oPFFUd7crOCVTCWwtOnm2w0Wh4ivpXaXxgU%2BROE%2BLIbsi7zdiGYh1mErQpyXLOH1QVL5IB8BV1u7iyckP9bZZE%2Fs%2B8IrFJRG6Y9akMV%2BRE1XT9wWiKOm9iV%2F5wve7bkDFQfXQ02fN1OWEKUV5TwkRa%2BKGeuTiD6Hzlm4ZNlAyYwFSz9EyRkKWMYFq#origin=whatsapp',
-  },
-  {
-    id: 22,
-    name: 'Kit Queijeira E Mantegueira',
-    category: 'Cozinha',
-    image: '/images/gifts/10.png',
-    link: 'https://www.mercadolivre.com.br/social/gs20240816222943?matt_word=gs20240816222943&matt_tool=70332337&forceInApp=true&ref=BAMEy997grIUmvjFYb4jw2rVRuOuq8kLEcGkzQh3z6Nq%2BOnFdxPCJDkXaGbE2EYx9UTJ5Ewa%2BOfEVywRlRCLmvp6sEt6oYNBEuGzKgQA6X1AYN7BrOT4m5%2Bt%2FnP3Q%2BYRwEweP1itecKhDcsBw168fpjJL9CTWiuz4HWgUf71GESzCv7kkfz5sa2ra59c3z05Dw8VdaTS6gdxdxpa5F1a0%2Fdn5IPjONEiIroosO7LckSKVLin#origin=whatsapp',
   },
   {
     id: 23,
@@ -187,13 +159,6 @@ export const GIFTS = [
     category: 'Cozinha',
     image: '/images/gifts/13.png',
     link: 'https://www.mercadolivre.com.br/social/gs20240816222943?matt_word=gs20240816222943&matt_tool=70332337&forceInApp=true&ref=BPZu2INPEx9j%2BlWRnObzQYR0K1ZmRUhF%2FtljCq%2BFK8wt64DaIB5Qe61r%2FEwZG2O5BtEJNXdGlMkit9gBTLqBdm6yuv1D8e7d%2BsskHtcdAv3rD5SL3DbKM6XFic5fJ4Rea4ZvXOECVFtJSjtfJYpt76gybSJkl7IL2QswwsYtmTgqoqHaNRgzwG8G1GQ7xg1Tg197Hw%3D%3D#origin=whatsapp',
-  },
-  {
-    id: 28,
-    name: 'Jogo 6 Taças Vidro Canelado Borda Dourada',
-    category: 'Cozinha',
-    image: '/images/gifts/14.png',
-    link: 'https://www.mercadolivre.com.br/social/gs20240816222943?matt_word=gs20240816222943&matt_tool=70332337&forceInApp=true&ref=BFlDfP8JIuZcNHjSQlQo2vDFMsIp5aGkI1JPjMC2oLNcja6jY6Zc%2BkwMNJeed9xLA2y3A85ZP2UikfGsAtgm4Id01iiA8vzjoHSa4935QQr0r9VWZu8E6Hoy0jjqq2TK7e5eqlGEgk7aMecmnOvMXw%2B0mpA8yHzZXSQfufCLy66NOygH5y%2BjFrwnVftR5ENCcLzDg7Q%3D#origin=whatsapp',
   },
   {
     id: 29,
