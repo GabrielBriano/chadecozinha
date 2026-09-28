@@ -49,27 +49,6 @@ export const GIFTS = [
     link: 'https://www.mercadolivre.com.br/social/gs20240816222943?matt_word=gs20240816222943&matt_tool=70332337&forceInApp=true&ref=BP4jk%2BWwqg2Uujz4L%2Bx9FYJKxozQojW2WiK%2ByNcTBJWOR05gJJf9RlhiNbfgUwtcKG2Y%2BjCEJZfkiCkmS8XH13DznPuKS0INVsT2pjX55AjinPFD%2FsgQtR5pmyIrMN0S83vBUIC86NXTKl3myJ7wPAnOdrrspziji8FP%2FagtuvBnn1Lns0A7DS%2BmMP5BIJHRVV1FUH%2B3fXFLHbAlItDAPMnaWLt%2FdmGbNvv4BvmCxyyAIXok#origin=whatsapp',
   },
   {
-    id: 9,
-    name: 'Mixer Philco Pmx2000 3 Em 1',
-    category: 'Cozinha',
-    image: '/images/gifts/philco.png',
-    link: 'https://www.mercadolivre.com.br/social/gs20240816222943?matt_word=gs20240816222943&matt_tool=70332337&forceInApp=true&ref=BL3OA57ROHeTcbLTnWDCyMorfzkrPoNm1Qskpi3YcHJ9HSKLHZI9i0XX39cuk6qO0XtaZr4jZhdkNuefxlcAMBEiLTAB%2B97RHYTivD%2Fec38JCAfDScEQs0bfjqtBxH24TqtG7I%2FcLZBJt%2FDZO7TTaSAv2tTNQiGvu%2FocDkNPf6y8epLudeDxXpXBb0kC9eH68vWgL7DoddMfcvhvw9jDGIA9c5dUbyrbrSD4Gg%3D%3D#origin=whatsapp',
-  },
-  {
-    id: 10,
-    name: 'Liquidificador Philco Turbo Glass',
-    category: 'Cozinha',
-    image: '/images/gifts/liqui1.png',
-    link: 'https://www.mercadolivre.com.br/social/gs20240816222943?matt_word=gs20240816222943&matt_tool=70332337&forceInApp=true&ref=BOa8HJQw6VLnaijUM5%2FxIem7kgfIkWtsjT6WtqTih2jDNhSGzcTYrfuz%2B6BpUSXNz%2ByeHf1iUvEnx%2BQk2WqJMBfvKL7bB1VwctMiQGBuGve3%2FagZRDOK8OKiKu3bvCDLoalLcgeObGvPM4bgIw%2FCo2IvhFpynvTMyHYx0oqhVWqtO3t2p5jt6Ax%2FXgzx0hed4qa9nYKor%2Ffx%2B%2BwEaKvrrfezAd7xUCDNrPQDPX1JruWhm6p%2B#origin=whatsapp',
-  },
-  {
-    id: 11,
-    name: 'Liquidificador Série 3000 Philips Walita Preto',
-    category: 'Cozinha',
-    image: '/images/gifts/liqui2.png',
-    link: 'https://www.mercadolivre.com.br/social/gs20240816222943?matt_word=gs20240816222943&matt_tool=70332337&forceInApp=true&ref=BD%2BzgZF6TrFB%2FwfqvwLFnrs0FVewX520wgwRMc2c5sIYD3p%2FEPiKpkMD0HBQ3RpWpIpm1O4%2BM%2B86JjYZSBacFgIk0ZcPLtQIQmhV7ZjQ5PEiqA8Z%2FwUQays6sVm7D26T3ETzp8LcxpOZVZ4t0zFEmNNHg2gcZdamkXxq65WPfE0QoEjge8mbbZ5oXrDGzbOi%2FmPO5f4%3D#origin=whatsapp',
-  },
-  {
     id: 12,
     name: 'Robô Aspirador de pó 4 em 1 Electrolux Wi-Fi MOP',
     category: 'Eletros',
