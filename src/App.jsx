@@ -40,8 +40,8 @@ const EVENT = {
   name: 'Giovanna e Gabriel',
   dateLabel: '05 de dezembro de 2026',
   dateShort: '05 • DEZEMBRO • 2026',
-  time: '11H',
-  target: '2026-12-05T11:00:00-03:00',
+  time: '12H',
+  target: '2026-12-05T12:00:00-03:00',
   venue: 'Espaço Jardim Encantado',
   address: 'R. Adiwalde de Oliveira Coelho, 411 - Parque Aeroporto de Viracopos',
   maps: 'https://www.google.com/maps/place/R.+Adiwalde+de+Oliveira+Coelho,+411+-+Parque+Aeroporto,+Campinas+-+SP,+13057-430/@-22.9822342,-47.1666281,17z/data=!3m1!4b1!4m5!3m4!1s0x94c8b642b07077f5:0x519310579bff287!8m2!3d-22.9822392!4d-47.1640532?entry=ttu&g_ep=EgoyMDI2MDgxMS4wIKXMDSoASAFQAw%3D%3D',
@@ -672,9 +672,9 @@ function Hero({ onOpen }) {
             delay: 1.4,
           }}
         >
-          Porque <span>dele</span>, por <span>ele</span>
+          Porque <span>Dele</span>, por <span>Ele</span>
           <br />
-          e para <span>ele</span> são todas as coisas.
+          e para <span>Ele</span> são todas as coisas.
         </motion.p>
 
         <motion.div
@@ -717,7 +717,7 @@ function Hero({ onOpen }) {
             delay: 1.95,
           }}
         >
-          05 <b>•</b> DEZEMBRO <b>•</b> 2026 <b>•</b> 11H
+          05 <b>•</b> DEZEMBRO <b>•</b> 2026 <b>•</b> 12H
         </motion.p>
 
         <motion.button
@@ -799,7 +799,7 @@ function EventSection({ onCalendar }) {
     <Heading title="Informações do evento" subtitle="Anote na agenda"/>
     <div className="info-grid">
       <Info icon={<CalendarDays/>} label="Data" title={EVENT.dateLabel} text="Sábado"/>
-      <Info icon={<Clock3/>} label="Horário" title="11:00" text="A partir das 11h"/>
+      <Info icon={<Clock3/>} label="Horário" title="12:00" text="A partir das 12h"/>
       <Info icon={<MapPin/>} label="Local" title={EVENT.venue} text={EVENT.address}/>
     </div>
     <div className="actions"><button className="btn btn-black" onClick={onCalendar}><CalendarDays size={17}/>Adicionar ao Google Agenda</button><a className="btn btn-outline" href={EVENT.maps} target="_blank" rel="noreferrer"><Navigation size={17}/>Ver localização</a></div>
