@@ -42,7 +42,7 @@ const EVENT = {
   dateShort: '05 • DEZEMBRO • 2026',
   time: '12H',
   target: '2026-12-05T12:00:00-03:00',
-  venue: 'Espaço Jardim Encantado',
+  venue: 'Chácara Recanto do Sol',
   address: 'R. Adiwalde de Oliveira Coelho, 411 - Parque Aeroporto de Viracopos',
   maps: 'https://www.google.com/maps/place/R.+Adiwalde+de+Oliveira+Coelho,+411+-+Parque+Aeroporto,+Campinas+-+SP,+13057-430/@-22.9822342,-47.1666281,17z/data=!3m1!4b1!4m5!3m4!1s0x94c8b642b07077f5:0x519310579bff287!8m2!3d-22.9822392!4d-47.1640532?entry=ttu&g_ep=EgoyMDI2MDgxMS4wIKXMDSoASAFQAw%3D%3D',
 }
@@ -674,7 +674,8 @@ function Hero({ onOpen }) {
         >
           Porque <span>Dele</span>, por <span>Ele</span>
           <br />
-          e para <span>Ele</span> são todas as coisas.
+          e para <span>Ele</span> são todas as coisas.<br/>
+          (Romanos 11:36)
         </motion.p>
 
         <motion.div
