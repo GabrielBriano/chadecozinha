@@ -810,7 +810,7 @@ function Info({icon,label,title,text}) { return <motion.article className="info"
 
 function RsvpSection({ rsvp, setRsvp, sent, onSubmit }) {
   return <section id="confirmacao" className="section"><div className="section-wrap two-cols">
-    <div className="visual-card"><img src="/images/decoracao-secundaria.png" alt="Inspiração da decoração do chá"/><div className="visual-overlay"><Gift/><span>Um momento preparado com carinho</span></div></div>
+    <div className="visual-card"><img src="/images/capa01.png" alt="Inspiração da decoração do chá"/><div className="visual-overlay"><Gift/><span>Um momento preparado com carinho</span></div></div>
     <div className="panel">
       <Heading title="Confirmação de presença" subtitle="Esperamos por você"/>
       {sent ? <div className="success"><Check/><h3>Presença registrada!</h3><p>Obrigada por responder, {rsvp.name}.</p></div> : <form onSubmit={onSubmit} className="form">
