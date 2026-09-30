@@ -64,7 +64,8 @@ html {
 .nav a {
   position: relative;
 
-  color: #57504a;
+  color: #000000;
+  opacity: 1;
 
   font-size: 0.68rem;
   letter-spacing: 0.14em;
@@ -1061,7 +1062,8 @@ body.intro-active{overflow:hidden}.site-content{min-height:100vh}.envelope-intro
 .hero-invitation-verse {
   margin: 0;
 
-  color: #4d453e;
+  color: #000000;
+  opacity: 1;
 
   font-family: 'Cormorant Garamond', serif;
   font-size: 1.05rem;
